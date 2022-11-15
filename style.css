@@ -3,3 +3,6 @@ body{
     display: flex;
     justify-content: center;
 }
+footer{
+    color: green;
+}
